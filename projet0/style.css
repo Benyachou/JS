@@ -1,0 +1,64 @@
+
+
+.success, .error{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: center;
+}
+.success{
+    background-color: green;
+}
+.error{
+    background-color: red;
+}
+h1 {
+    text-align: center;
+}
+label{
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+input{
+    display: block;
+    width: 40%;
+    min-width: 300px;
+    padding: 20px;
+    border-radius: 5px;
+    margin:0 auto;
+}
+.input{
+    margin: 40px;
+}
+button{
+    display: block;
+    width: 20%;
+    padding: 15px 50px;
+    border-radius: 10px;
+    border: none;
+    margin: 0 auto 50px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+   width: 33%;
+}
+
+.delete{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px 10px 10px;
+    cursor: pointer;
+    margin: 0 auto;
+}
