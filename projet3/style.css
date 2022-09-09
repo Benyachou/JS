@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to bottom, #79a3e0, #9a7dc0);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5em;
+    margin: 0;
+}
+
+.test {
+    background: rgb(118, 116, 219);
+    color: aliceblue;
+    padding: 1em 2em;
+    border-radius: 6px;
+    text-align: center;
+    margin-left: 10% ; 
+}
+.inp {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
